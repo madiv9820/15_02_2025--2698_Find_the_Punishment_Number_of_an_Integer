@@ -41,6 +41,7 @@
 
 - ### **Student:** 
     I think I’m ready to dive in! Let’s go with **n = 5**. Bring on the math magic! ✨`
+<hr>
 
 ### 📝 Problem Statement:
 
@@ -54,6 +55,7 @@ Here’s how it works:
 Your task:
 - Find all the numbers **$i$** (from **$1$** to **$n$**) that meet this special condition.
 - Once you find them, **square them** and **add them up**. That sum will be your final answer! 🎉
+<hr>
 
 ### 📚 Examples
 
@@ -102,6 +104,7 @@ Time for another number adventure! 🕵️‍♀️ This time we’re on the loo
     1 + 81 + 100 + 1296 = **1478**. 🎯
 
     And there you go, the **punishment number** for **n = 37** is **1478**! We’ve found the guilty numbers! 😄💥
+<hr>
 
 ### 📏 Constraints
 - **$1 \le n \le 100$** 🚀  
@@ -109,6 +112,7 @@ Time for another number adventure! 🕵️‍♀️ This time we’re on the loo
     - Think of it like this: You won’t have to handle any crazy, gigantic numbers, but you’ll still get to test your number detective skills with numbers as big as 100! 💡
 
     Don't worry, it's manageable! You're ready for this challenge. 💪📈
+<hr>
 
 ### 💡 Hints
 - **Can we generate all possible partitions of a number?** 🤔  
@@ -118,3 +122,4 @@ Time for another number adventure! 🕵️‍♀️ This time we’re on the loo
     - Think of it like a branching tree 🌳! Start with a number, then break it into two parts. Next, recursively do the same thing with those parts and keep splitting. Finally, combine all the parts in different ways to get the different partitions. 🧩
 
     It’s a bit like playing with puzzles 🔍. Break the pieces down and put them back together in all sorts of combinations!
+<hr>
