@@ -1,0 +1,1 @@
+# 15_02_2025--2698_Find_the_Punishment_Number_of_an_Integer
